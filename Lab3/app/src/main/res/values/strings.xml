@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1Test</string>
+    <string name="start_calculation">Почати розрахунок</string>
+    <string name="exit">Вийти</string>
+    <string name="monthly_income">Введіть свій дохід за місяць у гривні</string>
+    <string name="income_percentage">Введіть відсоток доходу для збереження</string>
+    <string name="next">Далі</string>
+    <string name="euro">Євро</string>
+    <string name="dollar">Долар</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="result">Результат:</string>
+    <string name="ok">OK</string>
+</resources>
