@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="university_detail">University Details</string>
+    <string name="no_data">No data available</string>
+</resources>
